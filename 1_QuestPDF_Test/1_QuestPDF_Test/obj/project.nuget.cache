@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2njl7ZO5/8ZzJUxKmznjq8cRqk4cSTTyaNJJmMksJVMV0tA+umL/BHEM6QzEiKHozgpB91YqsFZ5oeLVtpfh6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TOMAS\\Programacion\\NET\\MyRepository\\1_QuestPDF_Test\\1_QuestPDF_Test\\1_QuestPDF_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\harfbuzzsharp\\7.3.0\\harfbuzzsharp.7.3.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0\\harfbuzzsharp.nativeassets.macos.7.3.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0\\harfbuzzsharp.nativeassets.win32.7.3.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\questpdf\\2023.10.1\\questpdf.2023.10.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.6\\skiasharp.harfbuzz.2.88.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512"
+  ],
+  "logs": []
+}

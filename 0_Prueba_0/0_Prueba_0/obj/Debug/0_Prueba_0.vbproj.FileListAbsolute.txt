@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\bin\Debug\0_Prueba_0.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\bin\Debug\0_Prueba_0.exe
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\bin\Debug\0_Prueba_0.pdb
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\bin\Debug\0_Prueba_0.xml
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\0_Prueba_0.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\0_Prueba_0.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\_0_Prueba_0.Resources.resources
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\0_Prueba_0.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\0_Prueba_0.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\0_Prueba_0.exe
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\0_Prueba_0.xml
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Prueba_0\0_Prueba_0\obj\Debug\0_Prueba_0.pdb
