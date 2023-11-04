@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Hola_mundo\0_Hola_mundo\bin\Debug\0_Hola_mundo.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Hola_mundo\0_Hola_mundo\bin\Debug\0_Hola_mundo.exe
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Hola_mundo\0_Hola_mundo\bin\Debug\0_Hola_mundo.pdb
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Hola_mundo\0_Hola_mundo\obj\Debug\0_Hola_mundo.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Hola_mundo\0_Hola_mundo\obj\Debug\0_Hola_mundo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Hola_mundo\0_Hola_mundo\obj\Debug\0_Hola_mundo.exe
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\0_Hola_mundo\0_Hola_mundo\obj\Debug\0_Hola_mundo.pdb
