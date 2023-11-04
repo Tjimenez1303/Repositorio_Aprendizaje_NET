@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_QuestPDf_Test_2", "3_QuestPDf_Test_2\3_QuestPDf_Test_2.csproj", "{9F3E0916-29D0-4AF3-B5A3-D8C966E4322C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Maquetacion_QuestPDF_Test_2", "4_Maquetacion_QuestPDF_Test_2\4_Maquetacion_QuestPDF_Test_2.csproj", "{29006BF3-988C-4D01-8F24-19E0B2D3D34E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3E0916-29D0-4AF3-B5A3-D8C966E4322C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3E0916-29D0-4AF3-B5A3-D8C966E4322C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3E0916-29D0-4AF3-B5A3-D8C966E4322C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3E0916-29D0-4AF3-B5A3-D8C966E4322C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29006BF3-988C-4D01-8F24-19E0B2D3D34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29006BF3-988C-4D01-8F24-19E0B2D3D34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29006BF3-988C-4D01-8F24-19E0B2D3D34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29006BF3-988C-4D01-8F24-19E0B2D3D34E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732DF8CF-D4D7-4B58-B0EB-CBAF7C840714}
+	EndGlobalSection
+EndGlobal
