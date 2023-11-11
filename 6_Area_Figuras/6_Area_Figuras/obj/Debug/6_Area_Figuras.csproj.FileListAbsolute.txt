@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\6_Area_Figuras\6_Area_Figuras\bin\Debug\6_Area_Figuras.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\6_Area_Figuras\6_Area_Figuras\bin\Debug\6_Area_Figuras.exe
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\6_Area_Figuras\6_Area_Figuras\bin\Debug\6_Area_Figuras.pdb
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\6_Area_Figuras\6_Area_Figuras\obj\Debug\6_Area_Figuras.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\6_Area_Figuras\6_Area_Figuras\obj\Debug\6_Area_Figuras.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\6_Area_Figuras\6_Area_Figuras\obj\Debug\6_Area_Figuras.exe
+C:\Users\ASUS\OneDrive\Escritorio\TOMAS\Programacion\NET\MyRepository\6_Area_Figuras\6_Area_Figuras\obj\Debug\6_Area_Figuras.pdb
